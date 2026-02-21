@@ -5,5 +5,5 @@ print(num)
 """
 name = input("Please enter your name: ")
 age = int(input("Please enter your age: "))
-
+print("Please Enter the details")
 print("My name is: ",name,"and","My age is: ", age)
